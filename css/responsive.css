@@ -75,7 +75,7 @@
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
-        font-size: 80px;
+        font-size: 60px;
         color: white;
         margin: 9% 0 0 0;
     }
@@ -211,5 +211,13 @@
         margin-bottom: 180%;
         height: auto;
         
+    }
+}
+@media (max-width:320px){
+    .footer{
+        height: 270vh;
+    }
+    .nav-none{
+        height: 13vh;
     }
 }

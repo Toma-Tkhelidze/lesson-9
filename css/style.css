@@ -1,1 +1,339 @@
-header{max-width:100%;width:100%;height:324px;background-image:url('../image/Group\ 72.jpg');background-position:center;background-size:cover}.main-div{max-width:100%;width:85%;height:20px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;position:relative;margin:0 135px;padding-top:35px}.left-div h2{font-size:14px;color:#fff;text-transform:uppercase;font-weight:700;text-align:center}.left-div h2:hover{color:#add8e6;font-size:15px}.right-div ul{display:-webkit-box;display:-ms-flexbox;display:flex}.right-div li{margin-right:49px}.right-div ul li a{color:#fff;font-weight:700;text-transform:uppercase;font-size:12px;vertical-align:top}#blue{color:#00f}.hover:hover{font-size:20px}.about{margin-top:100px;margin-left:130px;font-size:42px;text-transform:uppercase;font-weight:700}.about a:hover{color:#add8e6}.about a{color:#fff}.fa-bars{display:none;color:#fff;width:100%;font-size:50px}.nav-none{display:none}.section{max-width:100%;width:100%;height:90vh;display:-webkit-box;display:-ms-flexbox;display:flex}.left-div1{width:50%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.left-div-item{width:60%}.left-div-item h3{font-size:14px;text-transform:uppercase;font-weight:700;color:#5863f8}.left-div-item .text{font-size:42px;text-transform:capitalize;color:#000;font-weight:700;margin-top:2px}.left-div-item .text1{font-size:16px;text-transform:initial;color:#000;margin-top:10px}.read{padding-top:10px;margin-top:20px}.read a{padding:10px 40px;background-color:#00f}.read a:hover{background-color:#4848f5}.read-m{color:#fff}.right-div1{width:50%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.center{width:70%}.image{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;width:100%}.galeria{display:-webkit-box;display:-ms-flexbox;display:flex;width:100%;height:140px}.image-left{background-image:url(../image/chelsea-gates-0653_wY0nRc-unsplash.jpg);width:50%;background-size:cover;background-position:center;border:10px solid #fff}.image-right{background-image:url(../image/rhema-kallianpur-jbJ-_hw2yag-unsplash.jpg);width:50%;border:10px solid #fff;background-size:cover}.bottom{background-image:url(../image/eddi-aguirre-ZAVHbpOn4Jk-unsplash.jpg);width:100%;background-size:cover;background-position:center;height:250px;border:10px solid #fff}.footer{max-width:100%;width:100%;height:612px;background-image:url('../image/Group\ 13.png');background-size:cover;background-position:center;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.footer-main{width:80%;height:430px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.text-footer{margin-left:10px;padding:0 0 25px 0;height:auto}.text-footer h4{color:#5863f8;text-transform:uppercase;font-size:14px;font-weight:700}.text-footer p{color:#fff;font-size:42px;text-transform:inherit;font-weight:700;width:40%;margin-top:10px}.box-main{max-width:100%;width:100%;height:260px;display:-webkit-box;display:-ms-flexbox;display:flex}.box1{max-width:100%;width:23%;height:260px;background-color:#fff;margin:0 auto}.image-f1{max-width:100%;width:100%;height:70px;background-image:url('../image/Path\ 28.png');background-repeat:no-repeat;background-position-x:center;background-position-y:100%;opacity:90%}.image-f{max-width:100%;width:100%;background-image:url(../image/001-hotel-1.png);height:auto;background-repeat:no-repeat;background-position-x:center;background-position-y:70%}.text-f{text-align:center;width:100%;margin:0 auto}.text-f1{text-align:center;width:70%;margin:0 auto;padding-top:20px;color:#000;font-size:18px;font-weight:700;text-transform:inherit}.text-f2{text-align:center;width:90%;margin:0 auto;padding-top:5px;height:auto;color:#b1b1b1;font-size:14px;text-transform:inherit}
+header{
+    max-width: 100%;
+    width: 100%;
+    height: 324px;
+    background-image: url(../image/Group\ 72.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.main-div{
+    max-width: 100%;
+    width: 85%;
+    height: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    position: relative;
+    margin:0 135px;
+    padding-top: 35px;
+    
+}
+.left-div h2{
+    font-size: 14px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+.left-div  h2:hover{
+    color: lightblue;
+    font-size: 15px ;
+    
+}
+.right-div ul{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex
+}
+
+
+.right-div li{
+    margin-right: 49px;
+    
+}
+
+.right-div ul li a{
+    color:#ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size:12px;
+    vertical-align: top;
+}
+
+#blue{
+    color: blue;
+}
+
+ .hover:hover{
+    font-size: 20px;
+}
+
+
+.about{ 
+    margin-top: 100px;
+    margin-left: 130px;
+    font-size: 42px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.about a:hover{
+    color: lightblue;
+}
+.about a{
+    color: #ffffff;
+}
+.fa-bars{
+    display: none;
+    color: white;
+    width: 100%;
+    font-size: 50px;
+}
+.nav-none{
+    display: none;
+}
+
+/* section */
+.section{
+    max-width: 100%;
+    width: 100%;
+    height: 90vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.left-div1{
+    width: 50%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+
+.left-div-item{
+    width: 60%;
+}
+
+.left-div-item h3{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #5863F8;
+}
+.left-div-item .text{
+    font-size: 42px;
+    text-transform: capitalize;
+    color: black;
+    font-weight: bold;
+    margin-top: 2px;
+}
+.left-div-item .text1{
+    font-size: 16px;
+    text-transform:initial;
+    color: black;
+    margin-top: 10px;
+}
+.read {
+    padding-top: 10px;
+    margin-top: 20px;
+}
+.read a{
+    padding: 10px 40px;
+    background-color: blue;
+    
+}
+.read a:hover{
+    background-color: rgb(72, 72, 245);
+}
+.read-m{
+    color: #ffffff;
+}
+
+/* right-div */
+.right-div1{
+    width: 50%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    
+}
+
+.center{
+    width: 70%;
+}
+
+.image{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    width: 100%;
+}
+.galeria{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    height: 140px;
+}
+.image-left{
+    background-image: url(../image/chelsea-gates-0653_wY0nRc-unsplash.jpg);
+    width: 50%;
+    background-size: cover;
+    background-position:center;
+    border: 10px solid white;
+}
+/* .image-left:hover{
+    background-size: 110% ;
+} */
+
+.image-right{
+    background-image: url(../image/rhema-kallianpur-jbJ-_hw2yag-unsplash.jpg);
+    width: 50%;
+    border: 10px solid white;
+    background-size: cover;
+}
+/* .image-right:hover{
+    background-size: 105%;
+} */
+
+.bottom{
+    background-image: url(../image/eddi-aguirre-ZAVHbpOn4Jk-unsplash.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    border: 10px solid white;
+}
+/* .bottom:hover{
+    background-size: 125%;
+} */
+
+/* footer */
+
+.footer{
+    max-width: 100%;
+    width: 100%;
+    height: 612px;
+    background-image: url(../image/Group\ 13.png);
+    background-size: cover;
+    background-position: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+.footer-main{
+    width: 80%;
+    height: 430px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+   
+}
+.text-footer{
+    margin-left: 10px;
+    padding: 0 0 25px 0;
+    height: auto;
+}
+.text-footer h4{
+    color: #5863F8;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+.text-footer p{
+    color: #ffffff;
+    font-size: 42px;
+    text-transform: inherit;
+    font-weight: bold;
+    width: 40%;
+    margin-top: 10px;
+}
+
+
+.box-main{
+    max-width: 100%;
+    width: 100%;
+    height: 260px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.box1{
+    max-width: 100%;
+    width: 23%;
+    height: 260px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+.image-f1{
+    max-width: 100%;
+    width: 100%;
+    height: 70px;
+    background-image: url(../image/Path\ 28.png);
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-position-y: 100%;
+    opacity:90%;
+}
+
+.image-f{
+    max-width: 100%;
+    width: 100%;
+    background-image: url(../image/001-hotel-1.png);
+    height: auto;
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-position-y: 70%;
+    
+}
+
+.text-f{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.text-f1{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 20px;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: inherit;
+}
+
+.text-f2{
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 5px;
+    height: auto;
+    color: #B1B1B1;
+    font-size: 14px;
+    text-transform: inherit;
+}
